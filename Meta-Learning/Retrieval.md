@@ -14,3 +14,4 @@ Frequently, students think that the act of creating their flashcards is what the
 Much of the time, students feel that they learned the information once they go through it accurately, then they stop.
 
 Make yourself aware of these misconceptions can help you avoid them.
+it's always better to be clear and confident than know nothing but yet confident.
