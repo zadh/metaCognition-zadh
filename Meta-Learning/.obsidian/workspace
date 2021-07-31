@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "8987b7c1f20e0d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2437a6781095864",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da773aba1c88d895",
+    "type": "split",
+    "children": [
+      {
+        "id": "70581fc672c7dd23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe8b0824dfaa9c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e75225e1078b8685",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5238b5f831c3c67",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9a86f5d664f94a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d65f757cfbd9ee95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a2437a6781095864",
+  "lastOpenFiles": [
+    "Retrieval.md",
+    "Spacing.md",
+    "A branch of MetaC..md",
+    "Variation.md",
+    "Interleaving.md",
+    "Untitled.md"
+  ]
+}
