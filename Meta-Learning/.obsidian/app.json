@@ -1,7 +1,8 @@
 {
   "spellcheck": true,
   "spellcheckDictionary": [
-    "kinesthetic"
+    "kinesthetic",
+    "practise"
   ],
   "promptDelete": false
 }

@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "50746349147277bc",
+        "id": "f483003f76639600",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50746349147277bc",
+  "active": "f483003f76639600",
   "lastOpenFiles": [
-    "Example Learners.md",
-    "Rule Learners.md",
-    "Spacing.md",
-    "Untitled.md",
-    "learners.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
+    "Interleaving.md",
     "A branch of MetaC..md",
-    "types of learners/Untitled.md",
-    "Retrieval.md"
+    "Example Learners.md",
+    "learners.md",
+    "Retrieval.md",
+    "Spacing.md",
+    "Rule Learners.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md"
   ]
 }

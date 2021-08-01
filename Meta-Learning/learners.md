@@ -9,3 +9,5 @@ Now, you may have learned about the four learning styles: visual, auditory, read
 Well, what is going on here?
 
 Go to "Rule Learners" and "Example Learners" to Learn more.
+
+There are a lot more learning styles to understand or grasp a concept, not just 1 or 2 but many and I'll be trying find as many as possible.
