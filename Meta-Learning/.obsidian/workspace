@@ -7,8 +7,11 @@
         "id": "f483003f76639600",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Interleaving.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interleaving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,11 +89,11 @@
   "active": "f483003f76639600",
   "lastOpenFiles": [
     "Interleaving.md",
+    "Spacing.md",
     "A branch of MetaC..md",
     "Example Learners.md",
     "learners.md",
     "Retrieval.md",
-    "Spacing.md",
     "Rule Learners.md",
     "Untitled.md",
     "Untitled 2.md",
